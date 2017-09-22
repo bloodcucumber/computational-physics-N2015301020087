@@ -5,7 +5,7 @@ size = width, height = 600, 500
 speed = [1, 1]
 black = 249, 130, 57
 screen = pygame.display.set_mode(size)
-ball = pygame.image.load('c:\\py\\ball.png')
+ball = pygame.image.load('c:\\py\\RUA.png')
 ballrect = ball.get_rect()
 while 1:
     for event in pygame.event.get():
