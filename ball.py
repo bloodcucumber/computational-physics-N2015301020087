@@ -1,4 +1,3 @@
-#A bouncing ball
 import sys, pygame
 
 pygame.init()
