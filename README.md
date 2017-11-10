@@ -1,3 +1,4 @@
+
 5.# computational-physics-N2015301020087
 repository for homework in computational physics course
 # HOMEWORK LIST
@@ -8,4 +9,4 @@ repository for homework in computational physics course
     5.[exercise_5]http://note.youdao.com/noteshare?id=55de19ee814e8db803a755876e1da2fd
     6.[exercise_6]http://note.youdao.com/noteshare?id=da8e3da028e8dc3e9c2ae59cdea2f21e  
     7.[exercise_7]http://note.youdao.com/noteshare?id=a04bbc96279f3675f87cdd8231aea412
-   
+    8.[exercise_8]http://note.youdao.com/noteshare?id=3fe33ef2eb8bfc4b6f1d9edda81e8817
