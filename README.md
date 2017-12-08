@@ -11,3 +11,5 @@ repository for homework in computational physics course
     7.[exercise_7]http://note.youdao.com/noteshare?id=a04bbc96279f3675f87cdd8231aea412
     8.[exercise_8]http://note.youdao.com/noteshare?id=3fe33ef2eb8bfc4b6f1d9edda81e8817
     9.[midterm_exercise]http://note.youdao.com/noteshare?id=b20d541c82c46cf0329632d193d820ae&sub=A19212E1FF594FF9B5EF32C4077B031E
+    10.[exercise_9]http://note.youdao.com/noteshare?id=7f25c502dad3876c2da2b70907b12cfb   
+    (上周忘交作业 特此补上）
